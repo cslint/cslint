@@ -1,6 +1,6 @@
 # CSLint
 
-Code Style Lint, your another choice of code style `linter` and `formater` for `js` and `css/scss`.
+Code Style Lint, your another choice of code style `linter` and `formatter` for `js` and `css/scss`.
 
 ## Installation
 
@@ -10,7 +10,7 @@ $ [sudo] npm install cslint -g
 
 ## Configuration
 
- Examples of cslint configuration file `.cslintrc`:
+Examples of cslint configuration file `.cslintrc`:
 
 ```bash
 {
@@ -39,8 +39,8 @@ $ cslint foo.js --fix
 
 ## Why
 
-* if you are familer to `eslint` and `stylelint`,  there is no difficult to use `cslint` which will do what `eslint` and `stylelint`.
-* you don't have to pay close attention to the upgrade of `eslint` and `stylelint` and their configs and plugins,  cslint will do that for you.
+* if you are familiar with `eslint` and `stylelint`,  there is no difficulty to use `cslint` which will do what `eslint` and `stylelint` will do.
+* you don't have to pay close attention to the upgrade of `eslint` and `stylelint` and their configs and plugins, cslint will do that for you.
 * you don't have to `npm install` a lot of pkgs everytime one by one, cslint will do that for you since you start use it.
 * it provides some build-in  `eslint-config-*`, `eslint-plugin-*`, `stylelint-config-*`,  which is very convenient for you to config them in `.cslintrc`
     * [eslint-config-google](https://www.npmjs.com/package/eslint-config-google)

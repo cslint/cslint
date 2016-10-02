@@ -1,6 +1,6 @@
 {
   "name": "cslint",
-  "version": "0.0.1",
+  "version": "0.1.5",
   "description": "code style lint, base on eslint, stylelint and stylefmt",
   "main": "index.js",
   "bin": "./bin/cslint.js",
