@@ -1,0 +1,46 @@
+{
+  "name": "cslint",
+  "version": "0.0.1",
+  "description": "code style lint, base on eslint, stylelint and stylefmt",
+  "main": "index.js",
+  "bin": "./bin/cslint.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cslint/cslint.git"
+  },
+  "keywords": [
+    "cslint",
+    "eslint",
+    "stylelint",
+    "stylefmt"
+  ],
+  "author": "molee1905",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cslint/cslint/issues"
+  },
+  "homepage": "https://github.com/cslint/cslint#readme",
+  "dependencies": {
+    "deepmerge": "^0.2.10",
+    "eslint": "^3.7.0",
+    "eslint-config-google": "^0.6.0",
+    "eslint-config-react": "^1.1.1",
+    "eslint-config-sm": "^0.1.21",
+    "eslint-config-standard": "^6.2.0",
+    "eslint-plugin-promise": "^2.0.1",
+    "eslint-plugin-sm": "0.0.3",
+    "js-yaml": "^3.6.1",
+    "optionator": "^0.8.1",
+    "shelljs": "^0.7.4",
+    "strip-bom": "^3.0.0",
+    "strip-json-comments": "^2.0.1",
+    "stylefmt": "^4.2.3",
+    "stylelint": "^7.3.1",
+    "stylelint-config-sm": "^1.0.1",
+    "stylelint-config-standard": "^13.0.2",
+    "tmp": "0.0.29"
+  }
+}

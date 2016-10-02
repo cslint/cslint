@@ -1,0 +1,14 @@
+/node_modules
+build/
+npm-debug.log
+.DS_Store
+tmp/
+.idea
+.cache
+/packages/**/node_modules
+/.vscode
+.sublimelinterrc
+.eslintrc
+.eslintcache
+.eslintignore
+.stylelintrc
