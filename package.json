@@ -1,6 +1,6 @@
 {
   "name": "cslint",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "code style lint, base on eslint, stylelint and stylefmt",
   "main": "index.js",
   "bin": "./bin/cslint.js",
@@ -32,7 +32,9 @@
     "eslint-config-standard": "^6.2.0",
     "eslint-plugin-promise": "^2.0.1",
     "eslint-plugin-sm": "0.0.3",
+    "eslint-plugin-standard": "^2.0.1",
     "js-yaml": "^3.6.1",
+    "logging": "^2.0.21",
     "optionator": "^0.8.1",
     "shelljs": "^0.7.4",
     "strip-bom": "^3.0.0",

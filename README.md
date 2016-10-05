@@ -49,6 +49,7 @@ $ cslint foo.js --fix
     * [eslint-config-standard](https://www.npmjs.com/package/eslint-config-standard)
     * [eslint-plugin-promise](https://www.npmjs.com/package/eslint-plugin-promise)
     * [eslint-plugin-sm (default)](https://www.npmjs.com/package/eslint-plugin-sm)
+    * [eslint-plugin-standard](https://www.npmjs.com/package/eslint-plugin-standard)
     * [stylelint-config-sm (default)](https://www.npmjs.com/package/stylelint-config-sm)
     * [stylelint-config-standard](https://www.npmjs.com/package/stylelint-config-standard)
 
