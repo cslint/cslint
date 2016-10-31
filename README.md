@@ -22,7 +22,9 @@ Examples of cslint configuration file `.cslintrc`:
     }
 }
 ```
+
 ## Usage
+
 ```
 # show help info
 $ cslint -h
@@ -36,6 +38,12 @@ $ cslint . --ext scss
 # fix file
 $ cslint foo.js --fix
 ```
+
+## Integrations
+
+* Sublime Text 3:
+    * [sublime-cslint](https://github.com/cslint/sublime-cslint)
+
 
 ## Why
 
