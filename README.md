@@ -54,10 +54,10 @@ $ cslint foo.js --fix
     * [eslint-config-google](https://www.npmjs.com/package/eslint-config-google)
     * [eslint-config-react](https://www.npmjs.com/package/eslint-config-react)
     * [eslint-config-sm (default)](https://www.npmjs.com/package/eslint-config-sm)
-    * [eslint-config-standard](https://www.npmjs.com/package/eslint-config-standard)
+    * ~~[eslint-config-standard](https://www.npmjs.com/package/eslint-config-standard)~~
     * [eslint-plugin-promise](https://www.npmjs.com/package/eslint-plugin-promise)
     * [eslint-plugin-sm (default)](https://www.npmjs.com/package/eslint-plugin-sm)
-    * [eslint-plugin-standard](https://www.npmjs.com/package/eslint-plugin-standard)
+    * ~~[eslint-plugin-standard](https://www.npmjs.com/package/eslint-plugin-standard)~~
     * [stylelint-config-sm (default)](https://www.npmjs.com/package/stylelint-config-sm)
     * ~~[stylelint-config-standard](https://www.npmjs.com/package/stylelint-config-standard)(later support)~~
 
